@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.KeyedServices", "DotNet8.KeyedServices\DotNet8.KeyedServices.csproj", "{7356C678-3A75-475C-A5D1-3FAE266D7E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7356C678-3A75-475C-A5D1-3FAE266D7E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7356C678-3A75-475C-A5D1-3FAE266D7E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7356C678-3A75-475C-A5D1-3FAE266D7E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7356C678-3A75-475C-A5D1-3FAE266D7E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
